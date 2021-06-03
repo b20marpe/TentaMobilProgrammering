@@ -38,7 +38,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="25sp"
-                android:text="Easy route"
+                android:text="Medium difficulty"
                 android:textColor="@color/black"
                 android:background="@color/purple_200"/>
         </TableRow>
@@ -66,7 +66,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="19sp"
-                android:text="Length: 7km"
+                android:text="Length: 9km"
                 android:textColor="@color/black"
                 android:background="@color/purple_200"/>
         </TableRow>
@@ -80,7 +80,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="19sp"
-                android:text="Estimated time: 1 hour 20 minutes"
+                android:text="Estimated time: 2,5 hours"
                 android:textColor="@color/black"
                 android:background="@color/purple_200"/>
         </TableRow>
